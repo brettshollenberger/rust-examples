@@ -1,0 +1,9 @@
+[package]
+
+name = "1-fizzbuzz"
+version = "0.0.1"
+authors = ["Brett Cassette <brett.shollenberger@gmail.com>"]
+
+[[bin]]
+
+name = "fizzbuzz"

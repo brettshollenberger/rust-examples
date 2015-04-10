@@ -1,0 +1,9 @@
+[package]
+
+name = "3-polish"
+version = "0.0.1"
+authors = ["Brett Cassette <brett.shollenberger@gmail.com>"]
+
+[[bin]]
+
+name = "polish"
